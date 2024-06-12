@@ -143,6 +143,7 @@ return {
         "bash",
         "html",
         "javascript",
+        "jsx",
         "json",
         "lua",
         "markdown",
